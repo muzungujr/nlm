@@ -1,0 +1,59 @@
+.nlmText {
+font-family: arial,helvetica,sans-serif;
+font-size:14px;
+}
+.nlmText p {
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 8px 0px;
+}
+.nlmTextBold {
+font-weight:bold;
+}
+.nlmTitle {
+font-family: arial,helvetica,sans-serif;
+font-size:16px;
+font-weight:bold;
+margin-bottom:6px;
+margin-top:6px;
+}
+.nlmBlue {
+color: #0070C0;
+}
+.nlmGreen {
+color:#009900;
+}
+.nlmOrange {
+color:#ff6600;
+}
+.nlmPurple {
+color: #993399;
+}
+.nlmListItem {
+font-weight:bold;
+padding-bottom:4px;
+}
+.nlmSlideShowTitle {
+font-size:24px;
+font-weight:bold;
+padding:8px 0px 0px 0px;
+}
+.nlmSlideShowQuestion {
+color:#333333;
+font-size:18px;
+font-style:italic;
+font-weight:bold;
+padding:16px 0px 0px 0px;
+}
+.nlmIntroTable {
+text-align: left; 
+width: 100%; 
+}
+.nlmIntroTable ul {
+margin: 4px 0px;
+}
+.nlmIntroTable li {
+padding: 3px 0px;
+}
+.nlmLinksList {
+font-size: 16px;
+margin:8px 0px 24px 0px;
